@@ -1,0 +1,12 @@
+name = "Quickpay Ubercart 3"
+description   = "Process Ubercart 3 payments using QuickPay."
+dependencies[] = uc_payment
+dependencies[] = quickpay
+package       = "QuickPay payment gateway"
+core = 7.x
+; Information added by drupal.org packaging script on 2012-04-28
+version = "7.x-1.0"
+core = "7.x"
+project = "quickpay"
+datestamp = "1336401679"
+
